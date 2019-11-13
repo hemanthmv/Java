@@ -12,3 +12,5 @@ Now this is line of master branch which i used to check whether any conflicts ge
 
 Merge completed successfully...!
 
+Now second branch is about to be created.
+
