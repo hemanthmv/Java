@@ -14,3 +14,5 @@ Merge completed successfully...!
 
 Now second branch is about to be created i.e the branch is nested within patch 1 branch.
 
+Third branch created from second branch and we are gonna merge this. We are about to check which branch is getting updated after merge.
+
