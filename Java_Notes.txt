@@ -1,5 +1,4 @@
 Welcome to Java
-
 Last commit in master branch fails and so that i am adding a line here to raise a conflict in during merging.
 
 1. Boolean check Eg . boolean sample = 77 < 40 
@@ -9,5 +8,9 @@ Last commit in master branch fails and so that i am adding a line here to raise 
 
 Now this line is added to check merging branches in git.
 
+Now this is line of master branch which i used to check whether any conflicts get arise during merging of two branches.
 
+Merge completed successfully...!
+
+Now second branch is about to be created.
 
