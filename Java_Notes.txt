@@ -3,4 +3,8 @@ Welcome to Java
 
 1. Boolean check Eg . boolean sample = 77 < 40 
 2. scanner class Eg.  Scanner  reference(-->anyVariable)  =  (--> Object of scanner )-->   new Scanner();
+3. In loops we can use like Eg.  arrayname.length ---> no need to use like length(); 
+4. Hash set is a hash table without duplicate values
+
+
 
