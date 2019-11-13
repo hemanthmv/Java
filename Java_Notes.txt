@@ -1,10 +1,13 @@
 Welcome to Java
 
+Last commit in master branch fails and so that i am adding a line here to raise a conflict in during merging.
 
 1. Boolean check Eg . boolean sample = 77 < 40 
 2. scanner class Eg.  Scanner  reference(-->anyVariable)  =  (--> Object of scanner )-->   new Scanner();
 3. In loops we can use like Eg.  arrayname.length ---> no need to use like length(); 
-4. Hash set is a hash table without duplicate values
+4. Hash set is a hash table without duplicate values.
+
+Now this line is added to check merging branches in git.
 
 
 Now this is line of master branch which i used to check whether any conflicts get arise during merging of two branches.
