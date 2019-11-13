@@ -1,5 +1,6 @@
 Welcome to Java
 
+Last commit in master branch fails and so that i am adding a line here to raise a conflict in during merging.
 
 1. Boolean check Eg . boolean sample = 77 < 40 
 2. scanner class Eg.  Scanner  reference(-->anyVariable)  =  (--> Object of scanner )-->   new Scanner();
